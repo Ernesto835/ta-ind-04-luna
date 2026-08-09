@@ -15,10 +15,8 @@
 - **PFC de Origen:** **BCEL — SGA (Sistema de Gestión Académica de la Escuela Provincias Unidas)**
 - **Roles del SGA:** **Secretaría, Docente, Rector, Soporte Técnico**
 - **PFC de Referencia (PE-U4):** ACC — Soporte Técnico ISP
-- **Equipo de Origen (PE-U4):** Equipo A
-  - Cristhian Daniel Pacheco Cárdenas (ACC)
-  - Robinson Rodrigo Cando Moreno (ACC)
-  - Ernesto Gregory Luna Mora (BCEL / SGA)
+- **Modalidad de Trabajo:** Individual  
+- **Autor:** Ernesto Gregory Luna Mora (BCEL / SGA)  
 - **Transformación Declarada como Foco Individual:** **T3 — Join relacional entre DataFrames**
 
 ---
